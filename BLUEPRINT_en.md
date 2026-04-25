@@ -68,6 +68,9 @@ This project is not for people who are already satisfied.
 - **You have stories that never become images.**
   The story exists. It just needs a protocol to become time.
 
+- **I can create AI-generated manga at a human level, but I've developed a fear of creating videos.**
+I can write storyboards. I just need to change my habit of doing everything with AI.
+
 - **You're a normal programmer who only works locally.**
   GitHub feels scary (so did it for this project's author). But you think structurally — and that is the real work.
 
