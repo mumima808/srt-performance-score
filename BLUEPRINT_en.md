@@ -97,6 +97,7 @@ Build a place to experiment.
 □ Run the GitHub repository as a living design document
 □ Create a gathering place (Discord, etc.)
 □ First experiment: SRT → LLM → AI character output
+□ Discussion → coming soon
 ```
 
 ### Phase 3 · Growth · Tools Anyone Can Hold
