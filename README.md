@@ -46,7 +46,9 @@ who find what everyone else missed.
 |------|----------|-------------|
 | `README.md` | EN | This file. The manifesto. |
 | `CONCEPT_jp.md` | JP | SRT = MIDI. The core definition. |
+| `CONCEPT_en.md` | EN | SRT = MIDI. The core definition. |
 | `BLUEPRINT_jp.md` | JP | Architecture, lineage, roadmap. |
+| `BLUEPRINT_en.md` | EN | Architecture, lineage, roadmap. |
 | `STORY_jp.md` | JP | The moment of discovery. A log. |
 | `STORY_en.md` | EN | The moment of discovery. A log. |
 | `LINEAGE_jp.md` | JP | Where this structure came from. |
