@@ -53,6 +53,9 @@ who find what everyone else missed.
 | `STORY_en.md` | EN | The moment of discovery. A log. |
 | `LINEAGE_jp.md` | JP | Where this structure came from. |
 | `LINEAGE_en.md` | EN | Where this structure came from. |
+| `PROTOTYPES.md` | EN | Five entry points. Try one. |
+
+Discussion → coming soon
 
 ## Status
 
