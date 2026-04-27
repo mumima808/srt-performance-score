@@ -46,6 +46,8 @@ The codebase comes later. The thinking comes first.
 - [BLUEPRINT_jp.md](BLUEPRINT_jp.md) / [BLUEPRINT_en.md](BLUEPRINT_en.md)
 - [PROTOTYPES_jp.md](PROTOTYPES_jp.md) / [PROTOTYPES_en.md](PROTOTYPES_en.md)
 - [JOURNAL_jp.md](JOURNAL_jp.md)
+- [LINEAGE_jp.md](LINEAGE_jp.md) / [LINEAGE_en.md](LINEAGE_en.md)
+- [STORY_jp.md](STORY_jp.md) / [STORY_en.md](STORY_en.md)
 
 ## From
 
