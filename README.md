@@ -40,6 +40,10 @@ who find what everyone else missed.
 Phase 1: Naming and manifesto.
 The codebase comes later. The thinking comes first.
 
+## Community
+
+→ [Show us your SRT / あなたのSRTを見せてください](https://github.com/mumima808/srt-performance-score/discussions/1)
+
 ## Files
 
 - [CONCEPT_jp.md](CONCEPT_jp.md) / [CONCEPT_en.md](CONCEPT_en.md)
