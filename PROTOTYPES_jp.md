@@ -57,4 +57,5 @@ AIキャラクターが、設計された通りに発話する。
 第4位。
 ```
 
-→ あなたのSRTを見せてください。（Discussion — coming soon）
+→ [あなたのSRTを見せてください（Discussion）](https://github.com/mumima808/srt-performance-score/discussions/1)
+
