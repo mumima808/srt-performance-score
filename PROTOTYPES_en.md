@@ -15,7 +15,7 @@ Upload an SRT file. Get a graph of silence lengths.
 
 Implementation: Just parse the SRT with Python.
 
-→ Show us your SRT. (Discussion — coming soon)
+→ [Show us your SRT.](https://github.com/mumima808/srt-performance-score/discussions/1)
 
 ---
 
@@ -27,7 +27,7 @@ The AI character speaks exactly as designed.
 
 Implementation: Just call the API.
 
-→ Show us your SRT. (Discussion — coming soon)
+→ [Show us your SRT.](https://github.com/mumima808/srt-performance-score/discussions/1)
 
 ---
 
