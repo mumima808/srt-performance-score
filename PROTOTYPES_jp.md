@@ -16,7 +16,7 @@ SRTファイルを読み込むと、沈黙の長さをグラフ化する。
 
 実装：PythonでSRTをパースするだけ。
 
-→ あなたのSRTを見せてください。（Discussion — coming soon）
+→ [Show us your SRT / あなたのSRTを見せてください](https://github.com/mumima808/srt-performance-score/discussions/1)
 
 ---
 
@@ -27,7 +27,7 @@ AIキャラクターが、設計された通りに発話する。
 
 実装：APIを叩くだけ。
 
-→ あなたのSRTを見せてください。（Discussion — coming soon）
+→ [Show us your SRT / あなたのSRTを見せてください](https://github.com/mumima808/srt-performance-score/discussions/1)
 
 ---
 
