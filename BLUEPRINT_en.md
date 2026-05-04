@@ -71,8 +71,6 @@ This project is not for people who are already satisfied.
 - **You can create AI-generated manga. But video feels out of reach.**
   Your storyboard already exists. You just need to break one habit: doing everything with AI.
 
-- **You're a normal programmer who only works locally.**
-  GitHub feels scary (so did it for this project's author). But you think structurally — and that is the real work.
 
 > The people who see the concept — not the interface —
 > are the ones who find what everyone else missed.
